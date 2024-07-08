@@ -10,7 +10,7 @@ Hello! I'm Harshal, a student at Coimbatore Institute of Technology with a stron
 
 - 🌱 Learning more about DevOps and Cloud Technologies
 - 💬 Ask me about JavaScript, Python, and Open Source
-- 📫 How to reach me: [your.email@example.com](mailto:ramharshal03@gmail.com)
+- 📫 How to reach me: [ramharshal03@gmail.com](mailto:ramharshal03@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can solve a Rubik's cube in under a minute!
 
