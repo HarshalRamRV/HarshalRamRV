@@ -8,10 +8,9 @@
 
 Hello! I'm Harshal, a student at Coimbatore Institute of Technology with a strong interest in full-stack development and open-source contributions. I enjoy learning new technologies and sharing my knowledge with the community.
 
-- 🔭 Currently working on [YourProjectName](https://github.com/yourusername/YourProjectName)
 - 🌱 Learning more about DevOps and Cloud Technologies
 - 💬 Ask me about JavaScript, Python, and Open Source
-- 📫 How to reach me: [your.email@example.com](mailto:your.email@example.com)
+- 📫 How to reach me: [your.email@example.com](mailto:ramharshal03@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can solve a Rubik's cube in under a minute!
 
